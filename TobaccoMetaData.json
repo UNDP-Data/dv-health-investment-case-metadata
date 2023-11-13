@@ -111,8 +111,8 @@
   },
   {
     "Themes": "Tobacco control",
-    "Indicator": "Annual economic produtivity losses per capita, in USD",
-    "IndicatorDescription": "Annual economic produtivity losses per capita (economic productivity losses divided by the total population), in USD",
+    "Indicator": "Annual economic productivity losses per capita, in USD",
+    "IndicatorDescription": "Annual economic productivity losses per capita (economic productivity losses divided by the total population), in USD",
     "DataKey": "econ_productivity_losses_per_capita",
     "DataSourceName": "",
     "DataSourceLink": "",
