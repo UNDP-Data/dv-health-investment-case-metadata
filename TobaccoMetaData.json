@@ -223,7 +223,7 @@
     "Themes": "Tobacco control",
     "Indicator": "Decrease in cigarette smoking prevalence over 15 years if all interventions implemented",
     "IndicatorDescription": "Decrease in cigarette smoking prevalence from start to end of the 15 year modelling period if all modeled interventions are implemented",
-    "DataKey": "cigarette_smoking_prevalence_change",
+    "DataKey": "cigarette_smoking_prevalence_decrease",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "%",
