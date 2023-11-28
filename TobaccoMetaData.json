@@ -404,7 +404,7 @@
     "DataSourceLink": "",
     "LabelSuffix": ": 1",
     "LabelPrefix": "",
-    "LabelFormat": ".1s",
+    "LabelFormat": ".0f",
     "BinningRange5": [],
     "BinningRangeLarge": [],
     "Categories": [],
