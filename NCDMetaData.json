@@ -8,7 +8,7 @@
     "DataSourceLink": "",
     "LabelSuffix": "",
     "LabelPrefix": "",
-    "LabelFormat": ".0f",
+    "LabelFormat": "",
     "BinningRange5": [],
     "BinningRangeLarge": [],
     "Categories": [],
