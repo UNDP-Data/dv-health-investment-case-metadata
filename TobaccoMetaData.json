@@ -3,7 +3,7 @@
     "Themes": "Tobacco control",
     "Indicator": "Year that the modelling of the tobacco control investment case refers to",
     "IndicatorDescription": "The year that the modelling of the tobacco control investment case refers to",
-    "DataKey": "reference_year",
+    "DataKey": "tobacco_reference_year",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",

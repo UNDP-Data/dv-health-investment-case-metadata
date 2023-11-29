@@ -1,5 +1,27 @@
 [
   {
+    "Themes": "NCD",
+    "Indicator": "Year that the modelling of the NCD investment case refers to",
+    "IndicatorDescription": "The year that the modelling of the NCD investment case refers to",
+    "DataKey": "ncd_reference_year",
+    "DataSourceName": "",
+    "DataSourceLink": "",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [],
+    "BinningRangeLarge": [],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": false,
+    "Map": false,
+    "BarGraph": false,
+    "Sizing": false,
+    "Color": false
+  },
+  {
     "Themes": "NCDs",
     "Indicator": "Annual NCD deaths, total",
     "IndicatorDescription": "Total number of NCD deaths",
