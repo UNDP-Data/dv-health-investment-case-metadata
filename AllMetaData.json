@@ -353,7 +353,7 @@
   },
   {
     "FocusArea": "Tobacco control",
-    "Indicator": "Annual tobacco-attributable healthcare expenditures, in USD",
+    "Indicator": "Annual tobacco-attributable health-care expenditures, in USD",
     "IndicatorDescription": "Annual costs of tobacco-attributable healthcare expenditures, in USD",
     "DataKey": "healthcare_expenditures",
     "DataSourceName": "",
@@ -793,7 +793,7 @@
   },
   {
     "FocusArea": "NCDs",
-    "Indicator": "Annual healthcare costs from NCDs, in USD",
+    "Indicator": "Annual health-care costs from NCDs, in USD",
     "IndicatorDescription": "Healthcare costs from NCDs per year in USD (includes government, private, OOP, etc). May be referred to as 'direct costs' in some reports",
     "DataKey": "healthcare_costs",
     "DataSourceName": "",
@@ -815,7 +815,7 @@
   },
   {
     "FocusArea": "NCDs",
-    "Indicator": "Annual healthcare costs from NCDs per capita, in USD",
+    "Indicator": "Annual health-care costs from NCDs per capita, in USD",
     "IndicatorDescription": "Healthcare costs of NCDs per capita",
     "DataKey": "healthcare_costs_per_capita",
     "DataSourceName": "",
