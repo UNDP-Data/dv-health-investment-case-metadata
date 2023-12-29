@@ -619,7 +619,7 @@
     "FocusArea": "NCDs",
     "Indicator": "Year that the modelling of the NCD investment case refers to",
     "IndicatorDescription": "The year that the modelling of the NCD investment case refers to",
-    "DataKey": "ncd_reference_year",
+    "DataKey": "NCD_reference_year",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",
@@ -722,7 +722,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -744,7 +744,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -810,7 +810,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -854,7 +854,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -876,7 +876,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -898,7 +898,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -933,7 +933,7 @@
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [15000, 20000, 35000, 100000],
+    "BinningRange5": [],
     "BinningRangeLarge": [],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -942,7 +942,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -986,7 +986,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1008,7 +1008,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1030,7 +1030,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1096,7 +1096,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1118,7 +1118,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1140,14 +1140,14 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
     "FocusArea": "NCDs",
     "Indicator": "Return-on-investment over 15 years from physical activity package",
     "IndicatorDescription": "Return of investment (ROI) of physical inactivity package over 15 years",
-    "DataKey": "15y_ROI_physicalActivity",
+    "DataKey": "15y_ROI_physical_activity",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": ": 1",
@@ -1162,7 +1162,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1184,14 +1184,14 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
     "FocusArea": "NCDs",
     "Indicator": "Recovered economic output from averting deaths and after implementing all interventions over 15 years, % of total recovered economic output",
     "IndicatorDescription": "Recovered economic output from averting deaths as modelled over 15 years as % of total recovered economic output",
-    "DataKey": "15y_recovered_econ_output_avertedDeaths_perc",
+    "DataKey": "15y_recovered_econ_output_averted_deaths_perc",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "%",
@@ -1206,7 +1206,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1228,7 +1228,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1250,7 +1250,7 @@
     "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   }
 ]
