@@ -288,7 +288,7 @@
   {
     "FocusArea": "Tobacco control",
     "Indicator": "Annual tobacco-attributable health-care expenditures, in USD",
-    "IndicatorDescription": "Annual costs of tobacco-attributable healthcare expenditures, in USD",
+    "IndicatorDescription": "Annual costs of tobacco-attributable health-care expenditures, in USD",
     "DataKey": "healthcare_expenditures",
     "DataSourceName": "",
     "DataSourceLink": "",
