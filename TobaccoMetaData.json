@@ -413,7 +413,7 @@
     "IsDivergent": false,
     "ScatterPlot": false,
     "Map": false,
-    "BarGraph": false,
+    "BarGraph": true,
     "Sizing": true,
     "Color": false
   },
@@ -567,7 +567,7 @@
     "IsDivergent": false,
     "ScatterPlot": true,
     "Map": true,
-    "BarGraph": true,
+    "BarGraph": false,
     "Sizing": true,
     "Color": false
   },

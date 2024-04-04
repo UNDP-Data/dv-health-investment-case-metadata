@@ -19,7 +19,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": true
   },
   {
     "FocusArea": "Tobacco control",
@@ -41,7 +44,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -63,7 +69,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -85,7 +94,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -107,7 +119,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -129,7 +144,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -151,7 +169,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -173,7 +194,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -195,7 +219,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -217,7 +244,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -239,7 +269,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -261,7 +294,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -283,7 +319,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -305,7 +344,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -327,7 +369,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -349,7 +394,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -371,7 +419,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -393,7 +444,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -413,9 +467,12 @@
     "IsDivergent": false,
     "ScatterPlot": false,
     "Map": false,
-    "BarGraph": false,
+    "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -437,7 +494,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -459,7 +519,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -481,7 +544,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -503,7 +569,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -525,7 +594,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -547,12 +619,15 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
     "Indicator": "Total economic benefits over 15 years from implementing the interventions per capita, in USD",
-    "IndicatorDescription": "Economis benefits over 15 years per capita",
+    "IndicatorDescription": "Economics benefits over 15 years per capita",
     "DataKey": "econ_benefits_per_capita",
     "DataSourceName": "",
     "DataSourceLink": "",
@@ -567,9 +642,12 @@
     "IsDivergent": false,
     "ScatterPlot": true,
     "Map": true,
-    "BarGraph": true,
+    "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -591,7 +669,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -613,7 +694,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -635,7 +719,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": true
   },
   {
     "FocusArea": "NCDs",
@@ -657,7 +744,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -679,7 +769,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -701,7 +794,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -723,7 +819,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -745,7 +844,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -767,7 +869,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -789,7 +894,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -811,7 +919,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -833,7 +944,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -855,7 +969,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -877,7 +994,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -899,7 +1019,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -921,7 +1044,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -943,7 +1069,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -965,7 +1094,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -987,7 +1119,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1009,7 +1144,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1031,7 +1169,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1053,7 +1194,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1075,7 +1219,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1095,9 +1242,12 @@
     "IsDivergent": false,
     "ScatterPlot": true,
     "Map": true,
-    "BarGraph": true,
+    "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1117,14 +1267,17 @@
     "IsDivergent": false,
     "ScatterPlot": false,
     "Map": false,
-    "BarGraph": false,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
     "Indicator": "Return-on-investment over 15 years from alcohol package",
-    "IndicatorDescription": "Return of investment (ROI) of acohol package over 15 years",
+    "IndicatorDescription": "Return of investment (ROI) of alcohol package over 15 years",
     "DataKey": "15y_ROI_alcohol",
     "DataSourceName": "",
     "DataSourceLink": "",
@@ -1139,9 +1292,12 @@
     "IsDivergent": false,
     "ScatterPlot": false,
     "Map": false,
-    "BarGraph": false,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1161,9 +1317,12 @@
     "IsDivergent": false,
     "ScatterPlot": false,
     "Map": false,
-    "BarGraph": false,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1183,9 +1342,12 @@
     "IsDivergent": false,
     "ScatterPlot": false,
     "Map": false,
-    "BarGraph": false,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1205,9 +1367,12 @@
     "IsDivergent": false,
     "ScatterPlot": false,
     "Map": false,
-    "BarGraph": false,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1229,7 +1394,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1251,7 +1419,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1273,6 +1444,9 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   }
 ]
