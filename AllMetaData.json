@@ -19,7 +19,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": true
   },
   {
     "FocusArea": "Tobacco control",
@@ -41,7 +44,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -63,7 +69,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -85,7 +94,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -107,7 +119,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -129,7 +144,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -151,7 +169,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -173,7 +194,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -195,7 +219,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -217,7 +244,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -239,7 +269,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -261,20 +294,23 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
-    "Indicator": "Annual economic productivity losses per capita, in USD",
-    "IndicatorDescription": "Annual economic productivity losses per capita (economic productivity losses divided by the total population), in USD",
-    "DataKey": "econ_productivity_losses_per_capita",
+    "Indicator": "Annual economic productivity losses per capita, in USD PPP",
+    "IndicatorDescription": "Annual economic productivity losses per capita (economic productivity losses divided by the total population), in USD PPP",
+    "DataKey": "econ_productivity_losses_per_capita_PPP",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": ".2",
-    "BinningRange5": [5, 25, 50, 75],
-    "BinningRangeLarge": [5, 10, 20, 35, 50, 75, 125],
+    "BinningRange5": [],
+    "BinningRangeLarge": [10, 25, 50, 100, 250, 400],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -283,7 +319,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -305,7 +344,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -327,13 +369,16 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
-    "Indicator": "Annual economic burden of tobacco-related illness per capita, in USD",
-    "IndicatorDescription": "Annual tobacco burden per capita (tobacco burden divided by total population), in USD",
-    "DataKey": "tobacco_burden_per_capita",
+    "Indicator": "Annual economic burden of tobacco-related illness per capita, in USD PPP",
+    "IndicatorDescription": "Annual tobacco burden per capita (tobacco burden divided by total population), in USD PPP",
+    "DataKey": "tobacco_burden_per_capita_PPP",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",
@@ -349,7 +394,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -371,7 +419,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -393,7 +444,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -406,16 +460,19 @@
     "LabelPrefix": "",
     "LabelFormat": ".0f",
     "BinningRange5": [],
-    "BinningRangeLarge": [],
+    "BinningRangeLarge": [1,2.5,5,7.5,10,12.5],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": false,
-    "Map": false,
-    "BarGraph": false,
+    "Map": true,
+    "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -437,7 +494,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -459,7 +519,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -481,7 +544,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -503,7 +569,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -525,7 +594,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -547,12 +619,15 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
     "Indicator": "Total economic benefits over 15 years from implementing the interventions per capita, in USD",
-    "IndicatorDescription": "Economis benefits over 15 years per capita",
+    "IndicatorDescription": "Economics benefits over 15 years per capita",
     "DataKey": "econ_benefits_per_capita",
     "DataSourceName": "",
     "DataSourceLink": "",
@@ -566,10 +641,13 @@
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
-    "Map": true,
-    "BarGraph": true,
+    "Map": false,
+    "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -591,7 +669,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "Tobacco control",
@@ -613,7 +694,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -635,7 +719,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": true
   },
   {
     "FocusArea": "NCDs",
@@ -657,7 +744,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -679,7 +769,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -701,7 +794,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -723,7 +819,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -745,7 +844,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -767,20 +869,23 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
-    "Indicator": "Annual economic burden of NCDs per capita, in USD",
-    "IndicatorDescription": "Total economic burden/ costs of NCDs per capita and year (divided by population in modelling year)",
-    "DataKey": "econ_burden_per_capita",
+    "Indicator": "Annual economic burden of NCDs per capita, in USD PPP",
+    "IndicatorDescription": "Total economic burden/ costs of NCDs per capita and year (divided by population in modelling year), in USD PPP",
+    "DataKey": "econ_burden_per_capita_PPP",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": "",
     "BinningRange5": [100, 250, 500, 1000],
-    "BinningRangeLarge": [150,300,450,600,750,900,1050],
+    "BinningRangeLarge": [10,250,500,750,1000,1250,1500],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -789,7 +894,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -811,7 +919,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -833,20 +944,23 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
-    "Indicator": "Annual health-care costs from NCDs per capita, in USD",
-    "IndicatorDescription": "Health-care costs of NCDs per capita",
-    "DataKey": "healthcare_costs_per_capita",
+    "Indicator": "Annual health-care costs from NCDs per capita, in USD PPP",
+    "IndicatorDescription": "Health-care costs of NCDs per capita, in USD PPP",
+    "DataKey": "healthcare_costs_per_capita_PPP",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": "",
     "BinningRange5": [10, 50, 100, 300],
-    "BinningRangeLarge": [10,60,110,160,210,260,310],
+    "BinningRangeLarge": [25,100,250,500,750,1000],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -855,7 +969,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -877,7 +994,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -899,20 +1019,23 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
-    "Indicator": "Annual economic productivity losses due to NCDs per capita, in USD",
-    "IndicatorDescription": "Economic productivity losses due to NCDs per capita",
-    "DataKey": "productivity_losses_per_capita",
+    "Indicator": "Annual economic productivity losses due to NCDs per capita, in USD PPP",
+    "IndicatorDescription": "Economic productivity losses due to NCDs per capita, in USD PPP",
+    "DataKey": "productivity_losses_per_capita_PPP",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": "",
     "BinningRange5": [100, 200, 400, 600],
-    "BinningRangeLarge": [100,200,300,400,500,600,700],
+    "BinningRangeLarge": [100,200,300,400,500,750,1000],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -921,7 +1044,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -943,7 +1069,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -965,7 +1094,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -987,7 +1119,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1009,7 +1144,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1031,7 +1169,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": true,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1053,7 +1194,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1075,7 +1219,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1094,9 +1241,34 @@
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": true,
+    "Map": false,
+    "BarGraph": false,
+    "Sizing": true,
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
+  },
+  {
+    "FocusArea": "NCDs",
+    "Indicator": "Cost of all interventions per capita over 15 years, in USD PPP",
+    "IndicatorDescription": "Cost of all interventions per capita over 15 years, in USD PPP",
+    "DataKey": "15y_cost_all_interventions_per_capita_PPP",
+    "DataSourceName": "",
+    "DataSourceLink": "",
+    "LabelSuffix": "",
+    "LabelPrefix": "",
+    "LabelFormat": "",
+    "BinningRange5": [],
+    "BinningRangeLarge": [100,250,500,750,1000,5000,10000],
+    "Categories": [],
+    "CategorizeByRanking": false,
+    "IsCategorical": false,
+    "IsDivergent": false,
+    "ScatterPlot": false,
     "Map": true,
     "BarGraph": true,
-    "Sizing": true,
+    "Sizing": false,
     "Color": false
   },
   {
@@ -1110,21 +1282,24 @@
     "LabelPrefix": "",
     "LabelFormat": "",
     "BinningRange5": [],
-    "BinningRangeLarge": [],
+    "BinningRangeLarge": [1,2.5,5,7.5,10,12.5],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": false,
-    "Map": false,
-    "BarGraph": false,
+    "Map": true,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
     "Indicator": "Return-on-investment over 15 years from alcohol package",
-    "IndicatorDescription": "Return of investment (ROI) of acohol package over 15 years",
+    "IndicatorDescription": "Return of investment (ROI) of alcohol package over 15 years",
     "DataKey": "15y_ROI_alcohol",
     "DataSourceName": "",
     "DataSourceLink": "",
@@ -1132,16 +1307,19 @@
     "LabelPrefix": "",
     "LabelFormat": "",
     "BinningRange5": [],
-    "BinningRangeLarge": [],
+    "BinningRangeLarge": [1,2.5,5,7.5,10,12.5],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": false,
-    "Map": false,
-    "BarGraph": false,
+    "Map": true,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1154,16 +1332,19 @@
     "LabelPrefix": "",
     "LabelFormat": "",
     "BinningRange5": [],
-    "BinningRangeLarge": [],
+    "BinningRangeLarge": [1,2.5,5,7.5,10,12.5],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": false,
-    "Map": false,
-    "BarGraph": false,
+    "Map": true,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1176,16 +1357,19 @@
     "LabelPrefix": "",
     "LabelFormat": "",
     "BinningRange5": [],
-    "BinningRangeLarge": [],
+    "BinningRangeLarge": [1,2.5,5,7.5,10,12.5],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": false,
-    "Map": false,
-    "BarGraph": false,
+    "Map": true,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1198,16 +1382,19 @@
     "LabelPrefix": "",
     "LabelFormat": "",
     "BinningRange5": [],
-    "BinningRangeLarge": [],
+    "BinningRangeLarge": [1,2.5,5,7.5,10,12.5],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
     "ScatterPlot": false,
-    "Map": false,
-    "BarGraph": false,
+    "Map": true,
+    "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1229,7 +1416,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1251,7 +1441,10 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
@@ -1273,6 +1466,9 @@
     "Map": false,
     "BarGraph": false,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": true,
+    "IsPeopleValue": false,
+    "IsYear": false
   }
 ]
