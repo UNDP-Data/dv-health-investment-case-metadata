@@ -465,7 +465,7 @@
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
-    "ScatterPlot": false,
+    "ScatterPlot": true,
     "Map": true,
     "BarGraph": true,
     "Sizing": true,
@@ -1269,7 +1269,10 @@
     "Map": true,
     "BarGraph": true,
     "Sizing": false,
-    "Color": false
+    "Color": false,
+    "IsPercent": false,
+    "IsPeopleValue": false,
+    "IsYear": false
   },
   {
     "FocusArea": "NCDs",
