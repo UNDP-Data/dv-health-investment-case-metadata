@@ -640,7 +640,7 @@
     "CategorizeByRanking": false,
     "IsCategorical": false,
     "IsDivergent": false,
-    "ScatterPlot": true,
+    "ScatterPlot": false,
     "Map": false,
     "BarGraph": false,
     "Sizing": true,
