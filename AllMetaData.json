@@ -141,13 +141,15 @@
       30
     ],
     "BinningRangeLarge": [
+      5,
       10,
       15,
       20,
       25,
       30,
       35,
-      40
+      40,
+      45
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -180,13 +182,15 @@
       30
     ],
     "BinningRangeLarge": [
+      5,
       10,
       15,
       20,
       25,
       30,
       35,
-      40
+      40,
+      45
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -245,12 +249,14 @@
     ],
     "BinningRangeLarge": [
       45,
+      45,
       50,
       55,
       60,
       65,
       70,
-      75
+      75,
+      80
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -353,11 +359,14 @@
     "LabelFormat": ".2",
     "BinningRange5": [],
     "BinningRangeLarge": [
-      10,
       25,
       50,
       100,
+      150,
+      200,
       250,
+      300,
+      350,
       400
     ],
     "Categories": [],
@@ -443,11 +452,13 @@
     "BinningRangeLarge": [
       2,
       5,
-      15,
+      10,
+      25,
       50,
       100,
-      150,
-      550
+      200,
+      300,
+      400
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -526,11 +537,14 @@
     "BinningRange5": [],
     "BinningRangeLarge": [
       1,
-      2.5,
+      2,
+      3,
+      4,
       5,
-      7.5,
-      10,
-      12.5
+      6,
+      7,
+      8,
+      9
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -563,10 +577,15 @@
       60
     ],
     "BinningRangeLarge": [
+      5,
+      10,
+      15,
+      20,
+      25,
       30,
+      35,
       40,
-      50,
-      60
+      45
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -649,13 +668,15 @@
       25
     ],
     "BinningRangeLarge": [
+      1,
       2,
+      3,
+      4,
       5,
       10,
       15,
       20,
-      25,
-      35
+      25
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -688,10 +709,15 @@
       30
     ],
     "BinningRangeLarge": [
+      5,
+      10,
       15,
       20,
       25,
-      30
+      30,
+      35,
+      40,
+      45
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -749,13 +775,15 @@
       250
     ],
     "BinningRangeLarge": [
-      20,
       50,
       100,
-      125,
       150,
+      200,
       250,
-      500
+      300,
+      350,
+      400,
+      450
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -868,7 +896,9 @@
       20000,
       25000,
       30000,
-      35000
+      35000,
+      40000,
+      45000
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -906,7 +936,9 @@
       10,
       12.5,
       15,
-      17.5
+      17.5,
+      20.0,
+      22.5
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -939,13 +971,15 @@
       95
     ],
     "BinningRangeLarge": [
-      65,
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
       70,
-      75,
       80,
-      85,
-      90,
-      95
+      90
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1028,13 +1062,15 @@
       10
     ],
     "BinningRangeLarge": [
-      2.5,
+      1,
+      2,
+      3,
+      4,
       5,
-      7.5,
       10,
-      12.5,
       15,
-      17.5
+      20,
+      25
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1067,8 +1103,10 @@
       1000
     ],
     "BinningRangeLarge": [
-      10,
-      250,
+      100,
+      200,
+      300,
+      400,
       500,
       750,
       1000,
@@ -1137,7 +1175,9 @@
       25,
       30,
       35,
-      40
+      40,
+      45,
+      50
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1170,12 +1210,15 @@
       300
     ],
     "BinningRangeLarge": [
-      25,
       100,
-      250,
+      200,
+      300,
+      400,
       500,
-      750,
-      1000
+      600,
+      700,
+      800,
+      900
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1263,8 +1306,10 @@
       300,
       400,
       500,
-      750,
-      1000
+      600,
+      700,
+      800,
+      900
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1347,13 +1392,15 @@
       1000000
     ],
     "BinningRangeLarge": [
-      50000,
-      75000,
       100000,
-      250000,
+      200000,
+      300000,
+      400000,
       500000,
-      750000,
-      1000000
+      600000,
+      700000,
+      800000,
+      900000
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1467,7 +1514,9 @@
       4,
       5,
       6,
-      7
+      7,
+      8,
+      9
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1500,13 +1549,15 @@
       1000
     ],
     "BinningRangeLarge": [
-      50,
-      75,
       100,
-      250,
+      200,
+      300,
+      400,
       500,
-      750,
-      1000
+      600,
+      700,
+      800,
+      900    
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1534,12 +1585,14 @@
     "BinningRange5": [],
     "BinningRangeLarge": [
       100,
-      250,
+      200,
+      300,
+      400,
       500,
-      750,
-      1000,
-      5000,
-      10000
+      600,
+      700,
+      800,
+      900   
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1568,11 +1621,14 @@
     "BinningRange5": [],
     "BinningRangeLarge": [
       1,
-      2.5,
+      2,
+      3,
+      4,
       5,
-      7.5,
-      10,
-      12.5
+      6,
+      7,
+      8,
+      9
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1601,11 +1657,14 @@
     "BinningRange5": [],
     "BinningRangeLarge": [
       1,
-      2.5,
+      2,
+      3,
+      4,
       5,
-      7.5,
-      10,
-      12.5
+      6,
+      7,
+      8,
+      9
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1634,11 +1693,14 @@
     "BinningRange5": [],
     "BinningRangeLarge": [
       1,
-      2.5,
+      2,
+      3,
+      4,
       5,
-      7.5,
-      10,
-      12.5
+      6,
+      7,
+      8,
+      9
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1667,11 +1729,14 @@
     "BinningRange5": [],
     "BinningRangeLarge": [
       1,
-      2.5,
+      2,
+      3,
+      4,
       5,
-      7.5,
-      10,
-      12.5
+      6,
+      7,
+      8,
+      9
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1700,11 +1765,14 @@
     "BinningRange5": [],
     "BinningRangeLarge": [
       1,
-      2.5,
+      2,
+      3,
+      4,
       5,
-      7.5,
-      10,
-      12.5
+      6,
+      7,
+      8,
+      9
     ],
     "Categories": [],
     "CategorizeByRanking": false,
