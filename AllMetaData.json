@@ -1354,7 +1354,7 @@
     "IsDivergent": false,
     "ScatterPlot": true,
     "Map": true,
-    "MapColor": "Negative",
+    "MapColor": "Neutral",
     "BarGraph": true,
     "Sizing": true,
     "Color": false,
