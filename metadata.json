@@ -134,21 +134,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      15,
-      25,
-      35,
-      50
-    ],
-    "BinningRangeLarge": [
-      10,
-      15,
-      20,
-      25,
-      30,
-      35,
-      50
-    ],
+    "BinningRange5": [15, 25, 35, 50],
+    "BinningRangeLarge": [10, 15, 20, 25, 30, 35, 50],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -173,21 +160,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      10,
-      20,
-      30,
-      40
-    ],
-    "BinningRangeLarge": [
-      5,
-      10,
-      15,
-      20,
-      25,
-      30,
-      40
-    ],
+    "BinningRange5": [10, 20, 30, 40],
+    "BinningRangeLarge": [5, 10, 15, 20, 25, 30, 40],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -237,21 +211,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      50,
-      60,
-      70,
-      80
-    ],
-    "BinningRangeLarge": [
-      40,
-      50,
-      60,
-      70,
-      80,
-      90,
-      100
-    ],
+    "BinningRange5": [50, 60, 70, 80],
+    "BinningRangeLarge": [40, 50, 60, 70, 80, 90, 100],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -351,21 +312,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": ".2",
-    "BinningRange5": [
-      100,
-      200,
-      400,
-      900
-    ],
-    "BinningRangeLarge": [
-      50,
-      100,
-      150,
-      200,
-      300,
-      400,
-      900
-    ],
+    "BinningRange5": [100, 200, 400, 900],
+    "BinningRangeLarge": [50, 100, 150, 200, 300, 400, 900],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -440,21 +388,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": ".2",
-    "BinningRange5": [
-      250,
-      750,
-      1,500,
-      2,500
-    ],
-    "BinningRangeLarge": [
-      100,
-      300,
-      600,
-      900,
-      1200,
-      1600,
-      2000
-    ],
+    "BinningRange5": [250, 750, 1, 500, 2, 500],
+    "BinningRangeLarge": [100, 300, 600, 900, 1200, 1600, 2000],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -529,21 +464,8 @@
     "LabelSuffix": ": 1",
     "LabelPrefix": "",
     "LabelFormat": ".0f",
-    "BinningRange5": [
-      20,
-      40,
-      60,
-      100
-    ],
-    "BinningRangeLarge": [
-      10,
-      20,
-      30,
-      40,
-      50,
-      60,
-      100
-    ],
+    "BinningRange5": [20, 40, 60, 100],
+    "BinningRangeLarge": [10, 20, 30, 40, 50, 60, 100],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -568,21 +490,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      40,
-      50,
-      60,
-      70
-    ],
-    "BinningRangeLarge": [
-      30,
-      40,
-      50,
-      60,
-      70,
-      80,
-      90
-    ],
+    "BinningRange5": [40, 50, 60, 70],
+    "BinningRangeLarge": [30, 40, 50, 60, 70, 80, 90],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -657,21 +566,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": ".2",
-    "BinningRange5": [
-      20,
-      40,
-      80,
-      140
-    ],
-    "BinningRangeLarge": [
-      10,
-      20,
-      30,
-      50,
-      70,
-      100,
-      140
-    ],
+    "BinningRange5": [20, 40, 80, 140],
+    "BinningRangeLarge": [10, 20, 30, 50, 70, 100, 140],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -696,21 +592,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": ".2",
-    "BinningRange5": [
-      20,
-      25,
-      30,
-      40
-    ],
-    "BinningRangeLarge": [
-      15,
-      20,
-      25,
-      30,
-      35,
-      40,
-      45
-    ],
+    "BinningRange5": [20, 25, 30, 40],
+    "BinningRangeLarge": [15, 20, 25, 30, 35, 40, 45],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -885,21 +768,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      4,
-      8,
-      12,
-      16
-    ],
-    "BinningRangeLarge": [
-      2,
-      4,
-      6,
-      8,
-      10,
-      12,
-      16
-    ],
+    "BinningRange5": [4, 8, 12, 16],
+    "BinningRangeLarge": [2, 4, 6, 8, 10, 12, 16],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -924,21 +794,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      50,
-      70,
-      90,
-      110
-    ],
-    "BinningRangeLarge": [
-      40,
-      50,
-      60,
-      70,
-      80,
-      90,
-      100
-    ],
+    "BinningRange5": [50, 70, 90, 110],
+    "BinningRangeLarge": [40, 50, 60, 70, 80, 90, 100],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1013,21 +870,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      3,
-      6,
-      9,
-      12
-    ],
-    "BinningRangeLarge": [
-      2,
-      3,
-      4,
-      5,
-      6,
-      8,
-      10
-    ],
+    "BinningRange5": [3, 6, 9, 12],
+    "BinningRangeLarge": [2, 3, 4, 5, 6, 8, 10],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1052,21 +896,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": "",
-    "BinningRange5": [
-      500,
-      1000,
-      1500,
-      2000
-    ],
-    "BinningRangeLarge": [
-      200,
-      400,
-      600,
-      800,
-      1000,
-      1500,
-      2000
-    ],
+    "BinningRange5": [500, 1000, 1500, 2000],
+    "BinningRangeLarge": [200, 400, 600, 800, 1000, 1500, 2000],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1116,21 +947,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      0.2,
-      0.4,
-      0.6,
-      0.8
-    ],
-    "BinningRangeLarge": [
-      0.1,
-      0.2,
-      0.3,
-      0.4,
-      0.5,
-      0.6,
-      0.8
-    ],
+    "BinningRange5": [0.2, 0.4, 0.6, 0.8],
+    "BinningRangeLarge": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.8],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1155,21 +973,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": "",
-    "BinningRange5": [
-      250,
-      500,
-      750,
-      1100
-    ],
-    "BinningRangeLarge": [
-      100,
-      200,
-      300,
-      400,
-      600,
-      800,
-      1100
-    ],
+    "BinningRange5": [250, 500, 750, 1100],
+    "BinningRangeLarge": [100, 200, 300, 400, 600, 800, 1100],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1244,21 +1049,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": "",
-    "BinningRange5": [
-      500,
-      1000,
-      1500,
-      2000
-    ],
-    "BinningRangeLarge": [
-      250,
-      500,
-      750,
-      1000,
-      1250,
-      1500,
-      2000
-    ],
+    "BinningRange5": [500, 1000, 1500, 2000],
+    "BinningRangeLarge": [250, 500, 750, 1000, 1250, 1500, 2000],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1333,20 +1125,9 @@
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      50000,
-      100000,
-      200000,
-      1000000
-    ],
+    "BinningRange5": [50000, 100000, 200000, 1000000],
     "BinningRangeLarge": [
-      20000,
-      50000,
-      100000,
-      200000,
-      500000,
-      1000000,
-      1500000
+      20000, 50000, 100000, 200000, 500000, 1000000, 1500000
     ],
     "Categories": [],
     "CategorizeByRanking": false,
@@ -1447,23 +1228,8 @@
     "LabelSuffix": "%",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      1,
-      2,
-      4,
-      6
-    ],
-    "BinningRangeLarge": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "BinningRange5": [1, 2, 4, 6],
+    "BinningRangeLarge": [1, 2, 3, 4, 5, 6, 7, 8, 9],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1488,21 +1254,8 @@
     "LabelSuffix": "",
     "LabelPrefix": "$",
     "LabelFormat": "",
-    "BinningRange5": [
-      4,
-      8,
-      12,
-      18
-    ],
-    "BinningRangeLarge": [
-      2,
-      4,
-      6,
-      8,
-      10,
-      12,
-      18
-    ],
+    "BinningRange5": [4, 8, 12, 18],
+    "BinningRangeLarge": [2, 4, 6, 8, 10, 12, 18],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1518,29 +1271,16 @@
   },
   {
     "FocusArea": "NCDs",
-    "Indicator": "Cost of all interventions per capita over 15 years, in USD adjusted by PPP",
-    "IndicatorDescription": "Cost of all interventions per capita over 15 years, in USD adjusted by PPP",
+    "Indicator": "Required investment over 15 years per capita, in USD adjusted by PPP",
+    "IndicatorDescription": "Required investment over 15 years per capita, in USD adjusted by PPP",
     "DataKey": "15y_cost_all_interventions_per_capita_PPP",
     "DataSourceName": "",
     "DataSourceLink": "",
     "LabelSuffix": "",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      200,
-      400,
-      600,
-      1200
-    ],
-    "BinningRangeLarge": [
-      100,
-      200,
-      300,
-      400,
-      500,
-      600,
-      1200
-    ],
+    "BinningRange5": [200, 400, 600, 1200],
+    "BinningRangeLarge": [100, 200, 300, 400, 500, 600, 1200],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1565,21 +1305,8 @@
     "LabelSuffix": ": 1",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      10,
-      20,
-      30,
-      50
-    ],
-    "BinningRangeLarge": [
-      5,
-      10,
-      15,
-      20,
-      25,
-      30,
-      35
-    ],
+    "BinningRange5": [10, 20, 30, 50],
+    "BinningRangeLarge": [5, 10, 15, 20, 25, 30, 35],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1604,21 +1331,8 @@
     "LabelSuffix": ": 1",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      5,
-      10,
-      15,
-      20
-    ],
-    "BinningRangeLarge": [
-      2,
-      4,
-      6,
-      8,
-      10,
-      12,
-      15
-    ],
+    "BinningRange5": [5, 10, 15, 20],
+    "BinningRangeLarge": [2, 4, 6, 8, 10, 12, 15],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1643,21 +1357,8 @@
     "LabelSuffix": ": 1",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      20,
-      40,
-      60,
-      120
-    ],
-    "BinningRangeLarge": [
-      20,
-      40,
-      60,
-      80,
-      100,
-      120,
-      140
-    ],
+    "BinningRange5": [20, 40, 60, 120],
+    "BinningRangeLarge": [20, 40, 60, 80, 100, 120, 140],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1682,21 +1383,8 @@
     "LabelSuffix": ": 1",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      2,
-      4,
-      6,
-      12
-    ],
-    "BinningRangeLarge": [
-      2,
-      3,
-      4,
-      5,
-      6,
-      8,
-      12
-    ],
+    "BinningRange5": [2, 4, 6, 12],
+    "BinningRangeLarge": [2, 3, 4, 5, 6, 8, 12],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
@@ -1721,21 +1409,8 @@
     "LabelSuffix": ": 1",
     "LabelPrefix": "",
     "LabelFormat": "",
-    "BinningRange5": [
-      1,
-      2,
-      3,
-      6
-    ],
-    "BinningRangeLarge": [
-      0.5,
-      1,
-      1.5,
-      2,
-      3,
-      4,
-      6
-    ],
+    "BinningRange5": [1, 2, 3, 6],
+    "BinningRangeLarge": [0.5, 1, 1.5, 2, 3, 4, 6],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
