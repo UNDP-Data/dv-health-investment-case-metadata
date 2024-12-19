@@ -1,4 +1,4 @@
-# Data Repository for the Health Investment Cases Pages
+# Data Repository for the Health Investment Case Visualizations
 
 This repository serves as the metadata repository for the Health Investment Cases Pages.
 
