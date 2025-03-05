@@ -364,7 +364,7 @@
     "LabelPrefix": "",
     "LabelFormat": ".2",
     "BinningRange5": [2, 4, 6, 8],
-    "BinningRangeLarge": [2, 4, 6, 8, 10, 12, 14],
+    "BinningRangeLarge": [1, 2, 3, 4, 5, 6, 7],
     "Categories": [],
     "CategorizeByRanking": false,
     "IsCategorical": false,
